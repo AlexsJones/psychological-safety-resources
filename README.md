@@ -1,6 +1,5 @@
-<p align="center">
-<img src=./images/mental-health.png width="400px"/>
-</p>
+
+![mental-health](./images/mental-health.png)
 
 # The what
 
