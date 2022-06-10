@@ -2,7 +2,7 @@
 <img src=./images/dan-meyers-hluOJZjLVXc-unsplash.jpg width="400px"/>
 </p>
 
-#The what
+# The what
 
 Psychological safety is being able to show and employ one's self without fear of negative consequences of self-image, status or career. It can be defined as a shared belief that the team is safe for interpersonal risk-taking. In psychologically safe teams, team members feel accepted and respected.
 
