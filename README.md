@@ -1,4 +1,6 @@
-<img src=./images/mental-health.png width="200px"/>
+<p align="center">
+<img src=./images/dan-meyers-hluOJZjLVXc-unsplash.jpg width="400px"/>
+</p>
 
 #The what
 
